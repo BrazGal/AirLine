@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AirLine1/static/css/main.f8bd757f.css",
+    "main.js": "/AirLine1/static/js/main.0f111aa9.js",
+    "static/media/profile.jpeg": "/AirLine1/static/media/profile.a0dae47d0d7a426ede0c.jpeg",
+    "index.html": "/AirLine1/index.html",
+    "main.f8bd757f.css.map": "/AirLine1/static/css/main.f8bd757f.css.map",
+    "main.0f111aa9.js.map": "/AirLine1/static/js/main.0f111aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bd757f.css",
+    "static/js/main.0f111aa9.js"
+  ]
+}
