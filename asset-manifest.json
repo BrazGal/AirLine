@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AirLine/static/css/main.6a989cc8.css",
-    "main.js": "/AirLine/static/js/main.b10b0ecf.js",
+    "main.css": "/AirLine/static/css/main.fefa2184.css",
+    "main.js": "/AirLine/static/js/main.73281688.js",
     "static/media/profile.jpeg": "/AirLine/static/media/profile.a0dae47d0d7a426ede0c.jpeg",
     "index.html": "/AirLine/index.html",
-    "main.6a989cc8.css.map": "/AirLine/static/css/main.6a989cc8.css.map",
-    "main.b10b0ecf.js.map": "/AirLine/static/js/main.b10b0ecf.js.map"
+    "main.fefa2184.css.map": "/AirLine/static/css/main.fefa2184.css.map",
+    "main.73281688.js.map": "/AirLine/static/js/main.73281688.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a989cc8.css",
-    "static/js/main.b10b0ecf.js"
+    "static/css/main.fefa2184.css",
+    "static/js/main.73281688.js"
   ]
 }
